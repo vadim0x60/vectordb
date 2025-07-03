@@ -14,7 +14,8 @@ setup(
         "scipy>=1.7.0",
         "sentence_transformers",
         "faiss-cpu",
-        "tensorflow_text"
+        "tensorflow_text",
+        "spacy"
     ],
     author="Vladimir Prelovac",
     author_email="vlad@kagi.com",
